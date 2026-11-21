@@ -1,1 +1,4 @@
-I plan to continue developing this site for my final project this semester. I plan to do this, mainly because I believe I have a very solid foundation on this site, and remaking a whole new site for my final while also learning new features would be stressful in combination with my other classes. I want to revisit organization of my code, using classes and my stylesheet more to make my time much easier for making my website look more consistent. 
+I feel a bit stronger with CSS than I did at the beggining of this semester, I feel like I can adjust the look of my site much easier now. 
+I believe that I have made my sites easy to navigate, and I hope that it feels intuitive and easy to browse. 
+I struggled alot with managing the information provided, as well as making the website match the admittedly vague instructions provided. 
+I am most proud of my ability to make adjustments to the appearence of the site itself, and making speedy changes to the physical shape of the pages themselves, though I think I could have done alot better this time around, If I had more time to work on it, which isnt really anyone's fault but my own. 
